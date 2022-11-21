@@ -32,6 +32,7 @@ echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docke
 sudo apt-get update -y
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-compose-plugin -y
 sudo apt-get install docker-compose -y
+sudo apt-get update
 END
 
   # Disable automatic box update checking. If you disable this, then
