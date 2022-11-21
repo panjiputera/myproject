@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 .vagrant/
 docker.txt
 Vagrantfile_test.txt
+=======
+.vagrant/
+>>>>>>> 4120ab9721fa5d7fb49349e2ae6a8a591ab662e9
