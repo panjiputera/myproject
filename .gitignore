@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 .vagrant/
+golang/
 docker.txt
 Vagrantfile_test.txt
 =======
